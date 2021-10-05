@@ -5,8 +5,8 @@
   "description": "Demo for ocker CI course",
   "main": "app.js",
   "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "start": "node app.js"
+  "test": "node app.js"
+  "package":"node app.js"
 },
   "author": "Luke Angel",
   "dependencies": {
